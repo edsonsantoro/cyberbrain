@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sem categoria Archives - CyberBrain Consulting</title>
-	<atom:link href="https://soft-puffpuff-c2ff8b.netlify.app/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>https://soft-puffpuff-c2ff8b.netlify.app/category/sem-categoria/</link>
+	<atom:link href="https://cyberbrain.com.br/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyberbrain.com.br/category/sem-categoria/</link>
 	<description>Consultoria completa em Cyber Segurança</description>
 	<lastBuildDate>Thu, 09 Mar 2023 17:12:38 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,30 +21,30 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>https://soft-puffpuff-c2ff8b.netlify.app/wp-content/uploads/sites/22/2023/03/ico_preto-150x150.png</url>
+	<url>https://cyberbrain.com.br/wp-content/uploads/sites/22/2023/03/ico_preto-150x150.png</url>
 	<title>Sem categoria Archives - CyberBrain Consulting</title>
-	<link>https://soft-puffpuff-c2ff8b.netlify.app/category/sem-categoria/</link>
+	<link>https://cyberbrain.com.br/category/sem-categoria/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Olá, mundo!</title>
-		<link>https://soft-puffpuff-c2ff8b.netlify.app/ola-mundo/</link>
-					<comments>https://soft-puffpuff-c2ff8b.netlify.app/ola-mundo/#comments</comments>
+		<link>https://cyberbrain.com.br/ola-mundo/</link>
+					<comments>https://cyberbrain.com.br/ola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[santoro]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2023 17:12:38 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://soft-puffpuff-c2ff8b.netlify.app/?p=1</guid>
+		<guid isPermaLink="false">https://cyberbrain.com.br/?p=1</guid>
 
 					<description><![CDATA[<p>Boas-vindas ao Gerador de Site Estático sites. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
-<p>The post <a rel="nofollow" href="https://soft-puffpuff-c2ff8b.netlify.app/ola-mundo/">Olá, mundo!</a> appeared first on <a rel="nofollow" href="https://soft-puffpuff-c2ff8b.netlify.app">CyberBrain Consulting</a>.</p>
+<p>The post <a rel="nofollow" href="https://cyberbrain.com.br/ola-mundo/">Olá, mundo!</a> appeared first on <a rel="nofollow" href="https://cyberbrain.com.br">CyberBrain Consulting</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Boas-vindas ao <a href="https://gen.drbmarketing.com.br/">Gerador de Site Estático sites</a>. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
-<p>The post <a rel="nofollow" href="https://soft-puffpuff-c2ff8b.netlify.app/ola-mundo/">Olá, mundo!</a> appeared first on <a rel="nofollow" href="https://soft-puffpuff-c2ff8b.netlify.app">CyberBrain Consulting</a>.</p>
+<p>The post <a rel="nofollow" href="https://cyberbrain.com.br/ola-mundo/">Olá, mundo!</a> appeared first on <a rel="nofollow" href="https://cyberbrain.com.br">CyberBrain Consulting</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://soft-puffpuff-c2ff8b.netlify.app/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cyberbrain.com.br/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
