@@ -1,11 +1,11 @@
 @font-face {
 	font-family: "nicons";
-	src: url('https://cyberbrain.com.br/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.eot');
-	src: url('https://cyberbrain.com.br/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.eot#iefix') format('eot'),
-		url('https://cyberbrain.com.br/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.woff2') format('woff2'),
-		url('https://cyberbrain.com.br/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.woff') format('woff'),
-		url('https://cyberbrain.com.br/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.ttf') format('truetype'),
-		url('https://cyberbrain.com.br/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.svg#nicons') format('svg');
+	src: url('https://soft-puffpuff-c2ff8b.netlify.app/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.eot');
+	src: url('https://soft-puffpuff-c2ff8b.netlify.app/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.eot#iefix') format('eot'),
+		url('https://soft-puffpuff-c2ff8b.netlify.app/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.woff2') format('woff2'),
+		url('https://soft-puffpuff-c2ff8b.netlify.app/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.woff') format('woff'),
+		url('https://soft-puffpuff-c2ff8b.netlify.app/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.ttf') format('truetype'),
+		url('https://soft-puffpuff-c2ff8b.netlify.app/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.svg#nicons') format('svg');
 }
 
 .nicon {

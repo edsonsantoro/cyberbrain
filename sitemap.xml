@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cyberbrain.com.br/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://soft-puffpuff-c2ff8b.netlify.app/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://cyberbrain.com.br/post-sitemap.xml</loc>
+		<loc>https://soft-puffpuff-c2ff8b.netlify.app/post-sitemap.xml</loc>
 		<lastmod>2023-03-09T17:12:38+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cyberbrain.com.br/page-sitemap.xml</loc>
+		<loc>https://soft-puffpuff-c2ff8b.netlify.app/page-sitemap.xml</loc>
 		<lastmod>2023-05-25T12:06:59+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cyberbrain.com.br/category-sitemap.xml</loc>
+		<loc>https://soft-puffpuff-c2ff8b.netlify.app/category-sitemap.xml</loc>
 		<lastmod>2023-03-09T17:12:38+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cyberbrain.com.br/author-sitemap.xml</loc>
+		<loc>https://soft-puffpuff-c2ff8b.netlify.app/author-sitemap.xml</loc>
 		<lastmod>2023-03-27T12:56:42+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
